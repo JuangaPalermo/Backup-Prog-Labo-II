@@ -1,0 +1,6 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\Entidades\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\Entidades\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\Entidades\obj\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\Entidades\obj\Debug\Entidades.pdb

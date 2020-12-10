@@ -1,0 +1,10 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\bin\Debug\MainInterfaces.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\bin\Debug\MainInterfaces.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\bin\Debug\MainInterfaces.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\obj\Debug\MainInterfaces.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\obj\Debug\MainInterfaces.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\obj\Debug\MainInterfaces.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\obj\Debug\MainInterfaces.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\MainInterfaces\obj\Debug\MainInterfaces.pdb

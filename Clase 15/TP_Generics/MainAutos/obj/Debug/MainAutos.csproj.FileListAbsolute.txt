@@ -1,0 +1,10 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\obj\Debug\MainAutos.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\obj\Debug\MainAutos.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\bin\Debug\MainAutos.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\bin\Debug\MainAutos.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\bin\Debug\MainAutos.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\obj\Debug\MainAutos.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\obj\Debug\MainAutos.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainAutos\obj\Debug\MainAutos.pdb

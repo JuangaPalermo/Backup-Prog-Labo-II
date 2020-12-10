@@ -1,0 +1,2 @@
+Link al video (sql + dataTable): https://drive.google.com/file/d/1C2gsQwy1K5D64CfmhjSXuyD8qhYgpeEr/view?usp=sharing
+Link al video (sqlDataAdapter): https://drive.google.com/file/d/1KlBwZijdbu6iLK1mV5VokhAwOssxlb5l/view?usp=sharing

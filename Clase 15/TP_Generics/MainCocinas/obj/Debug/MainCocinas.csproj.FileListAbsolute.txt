@@ -1,0 +1,10 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\bin\Debug\MainCocinas.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\bin\Debug\MainCocinas.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\bin\Debug\MainCocinas.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\obj\Debug\MainCocinas.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\obj\Debug\MainCocinas.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\obj\Debug\MainCocinas.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\obj\Debug\MainCocinas.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainCocinas\obj\Debug\MainCocinas.pdb

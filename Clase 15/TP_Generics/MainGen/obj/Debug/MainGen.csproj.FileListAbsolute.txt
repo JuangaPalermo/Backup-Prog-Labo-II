@@ -1,0 +1,10 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\obj\Debug\MainGen.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\obj\Debug\MainGen.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\bin\Debug\MainGen.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\bin\Debug\MainGen.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\bin\Debug\MainGen.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\obj\Debug\MainGen.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\obj\Debug\MainGen.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 15\TP_Generics\MainGen\obj\Debug\MainGen.pdb

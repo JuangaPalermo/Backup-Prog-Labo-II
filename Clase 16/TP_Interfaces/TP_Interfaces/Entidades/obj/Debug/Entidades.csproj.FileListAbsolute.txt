@@ -1,0 +1,6 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\Entidades\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\Entidades\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\Entidades\obj\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Clase 16\TP_Interfaces\TP_Interfaces\Entidades\obj\Debug\Entidades.pdb

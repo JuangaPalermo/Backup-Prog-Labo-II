@@ -1,0 +1,3 @@
+Link (ejemplo herencia - parte winform): https://drive.google.com/file/d/1BrgZ0N2fRHEFmiZUWgkGcPfrh1tOAbkY/view?usp=sharing
+Link (polimorfismo): https://drive.google.com/file/d/1-DNTX0UKeACWYN67tUKaM-QDU1CowP8y/view?usp=sharing
+Link (ejemplo herencia - con polimorfismo - herencia de form): https://drive.google.com/file/d/18OW31rxkYolnrqhW6xHXPfMihoyBp4yQ/view?usp=sharing (editado) 
