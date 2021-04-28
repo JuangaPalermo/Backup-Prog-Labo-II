@@ -1,0 +1,10 @@
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\bin\Debug\Entidades.dll
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\bin\Debug\Entidades.pdb
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\UTNFra\Segundo Cuatrimestre\Programacion y Labo II\Primer Parcial\PrimerParcial\Palermo.JuanGabriel.2A\ConsoleApp\obj\Debug\ConsoleApp.pdb
